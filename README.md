@@ -34,6 +34,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 08 | [String Methods in Python (isdigit, isupper, split, join)](lessons/08-string-methods) | [watch](https://youtu.be/ghfy07d_L3o) |
 | 09 | [Build a BMI Calculator in Python (Beginner Project)](lessons/09-project-bmi) | [watch](https://youtu.be/PyFCH9R6Jak) |
 | 10 | [Booleans and Comparison Operators in Python](lessons/10-booleans) | [watch](https://youtu.be/0hbbBDLEQdg) |
+| 11 | [if, elif, else in Python](lessons/11-if-elif-else) | [watch](https://youtu.be/2kTmwvJC3Fk) |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
