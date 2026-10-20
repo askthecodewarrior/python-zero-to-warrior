@@ -34,3 +34,6 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
+
+## License
+MIT. Use the code however you like, in class, at work or in your own projects. See [LICENSE](LICENSE).
