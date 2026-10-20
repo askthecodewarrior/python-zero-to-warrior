@@ -31,6 +31,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 05 | [User Input and Type Casting in Python](lessons/05-input-casting) | [watch](https://youtu.be/gHteuNjZAgk) |
 | 06 | [Strings and f-strings in Python](lessons/06-strings-fstrings) | [watch](https://youtu.be/hxRDt4I6R8c) |
 | 07 | [String Indexing and Slicing in Python](lessons/07-slicing) | [watch](https://youtu.be/DevbiX_KS3M) |
+| 08 | [String Methods in Python (isdigit, isupper, split, join)](lessons/08-string-methods) | [watch](https://youtu.be/ghfy07d_L3o) |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
