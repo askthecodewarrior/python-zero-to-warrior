@@ -43,6 +43,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 17 | [Build a Number Guessing Game in Python](lessons/17-project-guessing) | [watch](https://youtu.be/ibPmdPHtloQ) |
 | 18 | [Lists in Python for Beginners](lessons/18-lists) | [watch](https://youtu.be/elXHWQzpTi4) |
 | 19 | [Tuples and Sets in Python](lessons/19-tuples-sets) | [watch](https://youtu.be/pKUOIWQb9c8) |
+| 20 | [Dictionaries in Python, Explained Visually](lessons/20-dictionaries) | [watch](https://youtu.be/ZHw3UCkNS9g) |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
