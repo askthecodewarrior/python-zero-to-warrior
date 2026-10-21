@@ -41,6 +41,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 15 | [For Loops and range() in Python](lessons/15-for-loops) | [watch](https://youtu.be/deqEZZd9DTU) |
 | 16 | [break, continue and Nested Loops in Python](lessons/16-nested-loops) | [watch](https://youtu.be/r-jLt0vIu-M) |
 | 17 | [Build a Number Guessing Game in Python](lessons/17-project-guessing) | [watch](https://youtu.be/ibPmdPHtloQ) |
+| 18 | [Lists in Python for Beginners](lessons/18-lists) | [watch](https://youtu.be/elXHWQzpTi4) |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
