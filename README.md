@@ -38,6 +38,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 12 | [and, or, not: Logical Operators in Python](lessons/12-logical-ops) | [watch](https://youtu.be/LcZRRMNBfQ8) |
 | 13 | [Build a Password Strength Checker in Python](lessons/13-project-password) | [watch](https://youtu.be/FjSLsYbugJU) |
 | 14 | [While Loops in Python, Explained Visually](lessons/14-while-loops) | [watch](https://youtu.be/kW5tmN6v-Ko) |
+| 15 | [For Loops and range() in Python](lessons/15-for-loops) | [watch](https://youtu.be/deqEZZd9DTU) |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
