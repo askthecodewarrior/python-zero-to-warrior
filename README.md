@@ -36,6 +36,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 10 | [Booleans and Comparison Operators in Python](lessons/10-booleans) | [watch](https://youtu.be/0hbbBDLEQdg) |
 | 11 | [if, elif, else in Python](lessons/11-if-elif-else) | [watch](https://youtu.be/2kTmwvJC3Fk) |
 | 12 | [and, or, not: Logical Operators in Python](lessons/12-logical-ops) | [watch](https://youtu.be/LcZRRMNBfQ8) |
+| 13 | [Build a Password Strength Checker in Python](lessons/13-project-password) | [watch](https://youtu.be/FjSLsYbugJU) |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
