@@ -39,6 +39,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 13 | [Build a Password Strength Checker in Python](lessons/13-project-password) | [watch](https://youtu.be/FjSLsYbugJU) |
 | 14 | [While Loops in Python, Explained Visually](lessons/14-while-loops) | [watch](https://youtu.be/kW5tmN6v-Ko) |
 | 15 | [For Loops and range() in Python](lessons/15-for-loops) | [watch](https://youtu.be/deqEZZd9DTU) |
+| 16 | [break, continue and Nested Loops in Python](lessons/16-nested-loops) | [watch](https://youtu.be/r-jLt0vIu-M) |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
