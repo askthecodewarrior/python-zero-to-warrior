@@ -54,6 +54,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 28 | [Modules, import and pip in Python](lessons/28-modules-pip) | out Tue Nov 10 |
 | 29 | [`if __name__ == '__main__'` in Python, Explained](lessons/29-name-main) | out Wed Nov 11 |
 | 30 | [Build Hangman in Python](lessons/30-project-hangman) | out Thu Nov 12 |
+| 31 | [Reading and Writing Files in Python](lessons/31-files) | out Fri Nov 13 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
