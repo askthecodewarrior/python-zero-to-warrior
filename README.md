@@ -53,6 +53,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 27 | [Exception Handling in Python: try, except, finally](lessons/27-exceptions) | out Mon Nov 9 |
 | 28 | [Modules, import and pip in Python](lessons/28-modules-pip) | out Tue Nov 10 |
 | 29 | [`if __name__ == '__main__'` in Python, Explained](lessons/29-name-main) | out Wed Nov 11 |
+| 30 | [Build Hangman in Python](lessons/30-project-hangman) | out Thu Nov 12 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
