@@ -24,15 +24,15 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 <!-- lessons -->
 | # | Lesson | Video |
 |---|---|---|
-| 01 | [Get Python and VS Code (Windows & Mac)](lessons/01-install) | out Thu Oct 22 |
-| 02 | [Your First Python Program](lessons/02-first-program) | out Thu Oct 22 |
-| 03 | [Variables and Data Types in Python](lessons/03-variables-types) | out Thu Oct 22 |
-| 04 | [Numbers and Math in Python](lessons/04-numbers-math) | out Thu Oct 22 |
-| 05 | [User Input and Type Casting in Python](lessons/05-input-casting) | out Thu Oct 22 |
-| 06 | [Strings and f-strings in Python](lessons/06-strings-fstrings) | out Thu Oct 22 |
-| 07 | [String Indexing and Slicing in Python](lessons/07-slicing) | out Thu Oct 22 |
-| 08 | [String Methods in Python (isdigit, isupper, split, join)](lessons/08-string-methods) | out Thu Oct 22 |
-| 09 | [Build a BMI Calculator in Python (Beginner Project)](lessons/09-project-bmi) | out Thu Oct 22 |
+| 01 | [Get Python and VS Code (Windows & Mac)](lessons/01-install) | [watch](https://youtu.be/m3Dtbd4LWW4) |
+| 02 | [Your First Python Program](lessons/02-first-program) | [watch](https://youtu.be/U5zgHkmNhbo) |
+| 03 | [Variables and Data Types in Python](lessons/03-variables-types) | [watch](https://youtu.be/lWtvoZPPpoI) |
+| 04 | [Numbers and Math in Python](lessons/04-numbers-math) | [watch](https://youtu.be/ko_E0JQn6Dw) |
+| 05 | [User Input and Type Casting in Python](lessons/05-input-casting) | [watch](https://youtu.be/gHteuNjZAgk) |
+| 06 | [Strings and f-strings in Python](lessons/06-strings-fstrings) | [watch](https://youtu.be/hxRDt4I6R8c) |
+| 07 | [String Indexing and Slicing in Python](lessons/07-slicing) | [watch](https://youtu.be/DevbiX_KS3M) |
+| 08 | [String Methods in Python (isdigit, isupper, split, join)](lessons/08-string-methods) | [watch](https://youtu.be/ghfy07d_L3o) |
+| 09 | [Build a BMI Calculator in Python (Beginner Project)](lessons/09-project-bmi) | [watch](https://youtu.be/PyFCH9R6Jak) |
 | 10 | [Booleans and Comparison Operators in Python](lessons/10-booleans) | out Fri Oct 23 |
 | 11 | [if, elif, else in Python](lessons/11-if-elif-else) | out Sat Oct 24 |
 | 12 | [and, or, not: Logical Operators in Python](lessons/12-logical-ops) | out Sun Oct 25 |
