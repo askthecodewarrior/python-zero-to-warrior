@@ -52,6 +52,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 26 | [Variable Scope in Python (LEGB) Explained](lessons/26-scope) | out Sun Nov 8 |
 | 27 | [Exception Handling in Python: try, except, finally](lessons/27-exceptions) | out Mon Nov 9 |
 | 28 | [Modules, import and pip in Python](lessons/28-modules-pip) | out Tue Nov 10 |
+| 29 | [`if __name__ == '__main__'` in Python, Explained](lessons/29-name-main) | out Wed Nov 11 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
