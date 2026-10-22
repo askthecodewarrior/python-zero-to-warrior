@@ -50,6 +50,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 24 | [Functions in Python (def, parameters, return)](lessons/24-functions) | out Fri Nov 6 |
 | 25 | [Default and Keyword Arguments, *args and **kwargs](lessons/25-arguments) | out Sat Nov 7 |
 | 26 | [Variable Scope in Python (LEGB) Explained](lessons/26-scope) | out Sun Nov 8 |
+| 27 | [Exception Handling in Python: try, except, finally](lessons/27-exceptions) | out Mon Nov 9 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
