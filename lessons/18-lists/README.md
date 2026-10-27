@@ -1,7 +1,7 @@
 # Lesson 18: Lists in Python for Beginners
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/elXHWQzpTi4 · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/tnF_ifUU9_Y · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - A **list** keeps a bunch of values, in order, in one variable. You write it with square brackets and commas:
