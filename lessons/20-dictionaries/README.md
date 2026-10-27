@@ -1,7 +1,7 @@
 # Lesson 20: Dictionaries in Python, Explained Visually
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/ZHw3UCkNS9g · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/zTur9wm55Wg · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - A **dictionary** stores each value under a name called a **key**. You write it with curly braces, and inside go
