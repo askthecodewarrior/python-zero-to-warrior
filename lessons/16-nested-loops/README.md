@@ -1,7 +1,7 @@
 # Lesson 16: break, continue and Nested Loops in Python
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/r-jLt0vIu-M · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/mCaGaboo1do · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - `break` stops a loop right away, and Python jumps to the first line after the loop. `gate2.py` is the password
