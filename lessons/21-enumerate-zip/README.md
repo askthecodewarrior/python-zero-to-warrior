@@ -1,7 +1,7 @@
 # Lesson 21: enumerate() and zip() in Python
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/4klehVN5iFA · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/NHXHD0s-eH4 · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - **The long way:** `for i in range(len(shop)):` with `shop[i]` inside the loop gives you each index and its item. It
