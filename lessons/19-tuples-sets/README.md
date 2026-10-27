@@ -1,7 +1,7 @@
 # Lesson 19: Tuples and Sets in Python
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/pKUOIWQb9c8 · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/BgshQ1qkBpA · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - A **tuple** is a lot like a list (lesson 18): it keeps its items in order, and every item has an index. You write it
