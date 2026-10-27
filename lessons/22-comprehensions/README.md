@@ -1,7 +1,7 @@
 # Lesson 22: List Comprehensions in Python
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/T1M2RgJ6zrs · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/IBbXEjGTkbU · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - **The long way:** to build a new list from an old one, you start with an empty list, loop over the old one, and
