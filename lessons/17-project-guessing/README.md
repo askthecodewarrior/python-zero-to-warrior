@@ -1,7 +1,7 @@
 # Lesson 17: Build a Number Guessing Game in Python
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners. ⭐ A project lesson.
-Video: https://youtu.be/ibPmdPHtloQ · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/AkgssX26DSE · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - The **random module** comes with Python. `import random` loads it (the same way `import turtle` did in lessons 15
