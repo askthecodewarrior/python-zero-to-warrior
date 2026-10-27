@@ -33,10 +33,10 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 07 | [String Indexing and Slicing in Python](lessons/07-slicing) | [watch](https://youtu.be/DevbiX_KS3M) |
 | 08 | [String Methods in Python (isdigit, isupper, split, join)](lessons/08-string-methods) | [watch](https://youtu.be/ghfy07d_L3o) |
 | 09 | [Build a BMI Calculator in Python (Beginner Project)](lessons/09-project-bmi) | [watch](https://youtu.be/PyFCH9R6Jak) |
-| 10 | [Booleans and Comparison Operators in Python](lessons/10-booleans) | out Fri Oct 23 |
-| 11 | [if, elif, else in Python](lessons/11-if-elif-else) | out Sat Oct 24 |
-| 12 | [and, or, not: Logical Operators in Python](lessons/12-logical-ops) | out Sun Oct 25 |
-| 13 | [Build a Password Strength Checker in Python](lessons/13-project-password) | out Mon Oct 26 |
+| 10 | [Booleans and Comparison Operators in Python](lessons/10-booleans) | [watch](https://youtu.be/0hbbBDLEQdg) |
+| 11 | [if, elif, else in Python](lessons/11-if-elif-else) | [watch](https://youtu.be/2kTmwvJC3Fk) |
+| 12 | [and, or, not: Logical Operators in Python](lessons/12-logical-ops) | [watch](https://youtu.be/LcZRRMNBfQ8) |
+| 13 | [Build a Password Strength Checker in Python](lessons/13-project-password) | [watch](https://youtu.be/FjSLsYbugJU) |
 | 14 | [While Loops in Python, Explained Visually](lessons/14-while-loops) | out Tue Oct 27 |
 | 15 | [For Loops and range() in Python](lessons/15-for-loops) | out Wed Oct 28 |
 | 16 | [break, continue and Nested Loops in Python](lessons/16-nested-loops) | out Thu Oct 29 |
