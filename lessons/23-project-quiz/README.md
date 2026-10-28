@@ -1,7 +1,7 @@
 # Lesson 23: Build a Quiz Game in Python
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners. ⭐ A project lesson.
-Video: https://youtu.be/dVZiCewTwaQ · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/X9qw9EqaYeA · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - Nothing new on its own: a list (lesson 18), dictionaries (lesson 20), a for loop with `enumerate(..., start=1)`
