@@ -1,7 +1,7 @@
 # Lesson 24: Functions in Python (def, parameters, return)
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/Q3UN-akWPZ4 · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/QzYMhK3CALk · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - **Why functions:** when the same lines show up again and again, you write them once, give them a name, and run them
