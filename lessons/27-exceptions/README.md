@@ -1,7 +1,7 @@
 # Lesson 27: Exception Handling in Python: try, except, finally
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/tYip_eEqDJc · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/TcIveM-sheQ · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - **A traceback** is Python's report of an **exception**, an error that happens while the program is running. Read it
