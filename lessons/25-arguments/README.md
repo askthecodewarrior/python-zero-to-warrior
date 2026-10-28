@@ -1,7 +1,7 @@
 # Lesson 25: Default and Keyword Arguments, *args and **kwargs
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/kriHkpx6kMA · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/rGmU3kZHsgI · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - **Default values:** an equals sign on a parameter gives it a **default value**, the value it uses when the call
