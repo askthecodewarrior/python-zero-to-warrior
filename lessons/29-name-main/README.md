@@ -1,7 +1,7 @@
 # Lesson 29: `if __name__ == '__main__'` in Python, Explained
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/S-fNCNCsfU0 · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/BFkkurtjXZI · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - **Importing a file runs all of it.** When `main.py` says `import helpers`, Python runs `helpers.py` once, from top to
