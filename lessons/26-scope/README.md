@@ -1,7 +1,7 @@
 # Lesson 26: Variable Scope in Python (LEGB) Explained
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/3QvZ0f1GMiI · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/FiFT5vyLwQY · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - **Scope** is where in your code a name can be seen and used.
