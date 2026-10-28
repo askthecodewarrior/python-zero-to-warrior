@@ -1,7 +1,7 @@
 # Lesson 31: Reading and Writing Files in Python
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/B9nsp1L8WGU · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/zoHHC3qkeyk · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - **Why files:** everything a program keeps in variables is gone when it ends. A file stays on your disk, so the next
