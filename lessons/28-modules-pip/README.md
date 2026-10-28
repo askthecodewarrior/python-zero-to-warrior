@@ -1,7 +1,7 @@
 # Lesson 28: Modules, import and pip in Python
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners.
-Video: https://youtu.be/aH9NgQgVg9c · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/RYO0Cw6u8BA · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - A **module** is a `.py` file of code you can reuse. Modules come from three places:
