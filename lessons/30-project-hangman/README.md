@@ -1,7 +1,7 @@
 # Lesson 30: Build Hangman in Python
 
 Part of **Python: Zero to Warrior**, a free Python course for beginners. ⭐ A project lesson.
-Video: https://youtu.be/tjAsTR-9hkk · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
+Video: https://youtu.be/qU2_LE6w7lE · Full course: https://www.youtube.com/playlist?list=PLcsbg964FAwc
 
 ## What's in this lesson
 - Nothing new on its own, apart from `isalpha()`: `random.choice()` (lesson 28), a list and `append()` (lesson 18), a
