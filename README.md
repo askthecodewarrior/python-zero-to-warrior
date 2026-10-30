@@ -58,6 +58,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 32 | [Working with CSV Files in Python](lessons/32-csv) | out Sat Nov 14 |
 | 33 | [JSON in Python for Beginners](lessons/33-json) | out Sun Nov 15 |
 | 34 | [Regular Expressions in Python (Regex Basics)](lessons/34-regex) | out Mon Nov 16 |
+| 35 | [Build an Automatic File Organizer in Python](lessons/35-project-organizer) | out Tue Nov 17 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
