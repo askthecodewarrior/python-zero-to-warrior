@@ -56,6 +56,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 30 | [Build Hangman in Python](lessons/30-project-hangman) | out Thu Nov 12 |
 | 31 | [Reading and Writing Files in Python](lessons/31-files) | out Fri Nov 13 |
 | 32 | [Working with CSV Files in Python](lessons/32-csv) | out Sat Nov 14 |
+| 33 | [JSON in Python for Beginners](lessons/33-json) | out Sun Nov 15 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
