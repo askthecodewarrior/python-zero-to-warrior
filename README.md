@@ -40,7 +40,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 14 | [While Loops in Python, Explained Visually](lessons/14-while-loops) | [watch](https://youtu.be/kW5tmN6v-Ko) |
 | 15 | [For Loops and range() in Python](lessons/15-for-loops) | [watch](https://youtu.be/deqEZZd9DTU) |
 | 16 | [break, continue and Nested Loops in Python](lessons/16-nested-loops) | [watch](https://youtu.be/mCaGaboo1do) |
-| 17 | [Build a Number Guessing Game in Python](lessons/17-project-guessing) | out Fri Oct 30 |
+| 17 | [Build a Number Guessing Game in Python](lessons/17-project-guessing) | [watch](https://youtu.be/AkgssX26DSE) |
 | 18 | [Lists in Python for Beginners](lessons/18-lists) | out Sat Oct 31 |
 | 19 | [Tuples and Sets in Python](lessons/19-tuples-sets) | out Sun Nov 1 |
 | 20 | [Dictionaries in Python, Explained Visually](lessons/20-dictionaries) | out Mon Nov 2 |
