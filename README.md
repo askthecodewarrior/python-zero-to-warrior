@@ -59,6 +59,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 33 | [JSON in Python for Beginners](lessons/33-json) | out Sun Nov 15 |
 | 34 | [Regular Expressions in Python (Regex Basics)](lessons/34-regex) | out Mon Nov 16 |
 | 35 | [Build an Automatic File Organizer in Python](lessons/35-project-organizer) | out Tue Nov 17 |
+| 36 | [Classes and Objects in Python – OOP for Beginners](lessons/36-classes) | out Wed Nov 18 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
