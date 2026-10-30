@@ -39,7 +39,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 13 | [Build a Password Strength Checker in Python](lessons/13-project-password) | [watch](https://youtu.be/FjSLsYbugJU) |
 | 14 | [While Loops in Python, Explained Visually](lessons/14-while-loops) | [watch](https://youtu.be/kW5tmN6v-Ko) |
 | 15 | [For Loops and range() in Python](lessons/15-for-loops) | [watch](https://youtu.be/deqEZZd9DTU) |
-| 16 | [break, continue and Nested Loops in Python](lessons/16-nested-loops) | out Thu Oct 29 |
+| 16 | [break, continue and Nested Loops in Python](lessons/16-nested-loops) | [watch](https://youtu.be/mCaGaboo1do) |
 | 17 | [Build a Number Guessing Game in Python](lessons/17-project-guessing) | out Fri Oct 30 |
 | 18 | [Lists in Python for Beginners](lessons/18-lists) | out Sat Oct 31 |
 | 19 | [Tuples and Sets in Python](lessons/19-tuples-sets) | out Sun Nov 1 |
@@ -55,6 +55,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 29 | [`if __name__ == '__main__'` in Python, Explained](lessons/29-name-main) | out Wed Nov 11 |
 | 30 | [Build Hangman in Python](lessons/30-project-hangman) | out Thu Nov 12 |
 | 31 | [Reading and Writing Files in Python](lessons/31-files) | out Fri Nov 13 |
+| 32 | [Working with CSV Files in Python](lessons/32-csv) | out Sat Nov 14 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
