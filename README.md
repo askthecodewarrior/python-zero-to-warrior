@@ -64,6 +64,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 38 | [Inheritance and super() in Python](lessons/38-inheritance) | out Fri Nov 20 |
 | 39 | [Encapsulation and @property in Python](lessons/39-encapsulation) | out Sat Nov 21 |
 | 40 | [Magic (Dunder) Methods in Python](lessons/40-dunder) | out Sun Nov 22 |
+| 41 | [Dataclasses in Python](lessons/41-dataclasses) | out Mon Nov 23 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
