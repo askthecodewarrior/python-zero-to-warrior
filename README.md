@@ -66,6 +66,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 40 | [Magic (Dunder) Methods in Python](lessons/40-dunder) | out Sun Nov 22 |
 | 41 | [Dataclasses in Python](lessons/41-dataclasses) | out Mon Nov 23 |
 | 42 | [Build a Bank Account System in Python (OOP Project)](lessons/42-project-bank) | out Tue Nov 24 |
+| 43 | [lambda, map, filter and sorted in Python](lessons/43-lambda-map) | out Wed Nov 25 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
