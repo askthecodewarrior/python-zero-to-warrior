@@ -61,6 +61,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 35 | [Build an Automatic File Organizer in Python](lessons/35-project-organizer) | out Tue Nov 17 |
 | 36 | [Classes and Objects in Python – OOP for Beginners](lessons/36-classes) | out Wed Nov 18 |
 | 37 | [__init__, self and Methods in Python](lessons/37-init-self) | out Thu Nov 19 |
+| 38 | [Inheritance and super() in Python](lessons/38-inheritance) | out Fri Nov 20 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
