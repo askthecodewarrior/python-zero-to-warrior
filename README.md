@@ -69,6 +69,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 43 | [lambda, map, filter and sorted in Python](lessons/43-lambda-map) | out Wed Nov 25 |
 | 44 | [Recursion in Python, Explained Visually](lessons/44-recursion) | out Thu Nov 26 |
 | 45 | [Iterators and Generators in Python (yield)](lessons/45-generators) | out Fri Nov 27 |
+| 46 | [Decorators in Python, Explained Visually](lessons/46-decorators) | out Sat Nov 28 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
