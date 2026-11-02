@@ -73,6 +73,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 47 | [Type Hints in Python](lessons/47-type-hints) | out Sun Nov 29 |
 | 48 | [Virtual Environments, pip and uv in Python](lessons/48-venv-uv) | out Mon Nov 30 |
 | 49 | [Testing Python Code with pytest](lessons/49-pytest) | out Tue Dec 1 |
+| 50 | [Build a Weather App in Python with an API](lessons/50-project-weather) | out Wed Dec 2 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
