@@ -71,6 +71,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 45 | [Iterators and Generators in Python (yield)](lessons/45-generators) | out Fri Nov 27 |
 | 46 | [Decorators in Python, Explained Visually](lessons/46-decorators) | out Sat Nov 28 |
 | 47 | [Type Hints in Python](lessons/47-type-hints) | out Sun Nov 29 |
+| 48 | [Virtual Environments, pip and uv in Python](lessons/48-venv-uv) | out Mon Nov 30 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
