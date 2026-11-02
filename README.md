@@ -41,8 +41,8 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 15 | [For Loops and range() in Python](lessons/15-for-loops) | [watch](https://youtu.be/deqEZZd9DTU) |
 | 16 | [break, continue and Nested Loops in Python](lessons/16-nested-loops) | [watch](https://youtu.be/mCaGaboo1do) |
 | 17 | [Build a Number Guessing Game in Python](lessons/17-project-guessing) | [watch](https://youtu.be/AkgssX26DSE) |
-| 18 | [Lists in Python for Beginners](lessons/18-lists) | out Sat Oct 31 |
-| 19 | [Tuples and Sets in Python](lessons/19-tuples-sets) | out Sun Nov 1 |
+| 18 | [Lists in Python for Beginners](lessons/18-lists) | [watch](https://youtu.be/tnF_ifUU9_Y) |
+| 19 | [Tuples and Sets in Python](lessons/19-tuples-sets) | [watch](https://youtu.be/BgshQ1qkBpA) |
 | 20 | [Dictionaries in Python, Explained Visually](lessons/20-dictionaries) | out Mon Nov 2 |
 | 21 | [enumerate() and zip() in Python](lessons/21-enumerate-zip) | out Tue Nov 3 |
 | 22 | [List Comprehensions in Python](lessons/22-comprehensions) | out Wed Nov 4 |
