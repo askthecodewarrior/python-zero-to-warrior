@@ -44,7 +44,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 18 | [Lists in Python for Beginners](lessons/18-lists) | [watch](https://youtu.be/tnF_ifUU9_Y) |
 | 19 | [Tuples and Sets in Python](lessons/19-tuples-sets) | [watch](https://youtu.be/BgshQ1qkBpA) |
 | 20 | [Dictionaries in Python, Explained Visually](lessons/20-dictionaries) | [watch](https://youtu.be/zTur9wm55Wg) |
-| 21 | [enumerate() and zip() in Python](lessons/21-enumerate-zip) | out Tue Nov 3 |
+| 21 | [enumerate() and zip() in Python](lessons/21-enumerate-zip) | [watch](https://youtu.be/NHXHD0s-eH4) |
 | 22 | [List Comprehensions in Python](lessons/22-comprehensions) | out Wed Nov 4 |
 | 23 | [Build a Quiz Game in Python](lessons/23-project-quiz) | out Thu Nov 5 |
 | 24 | [Functions in Python (def, parameters, return)](lessons/24-functions) | out Fri Nov 6 |
