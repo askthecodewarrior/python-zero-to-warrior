@@ -77,6 +77,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 51 | [Build a Password Generator GUI in Python (Tkinter)](lessons/51-project-gui) | out Thu Dec 3 |
 | 52 | [Build a Snake Game in Python (Beginner Project)](lessons/52-project-snake) | out Fri Dec 4 |
 | 53 | [Build a Port Scanner in Python (Ethical Hacking Basics)](lessons/53-project-scanner) | out Sat Dec 5 |
+| 54 | [Build an AI Chatbot in Python](lessons/54-project-ai-chatbot) | out Sun Dec 6 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
