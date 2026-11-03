@@ -76,6 +76,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 50 | [Build a Weather App in Python with an API](lessons/50-project-weather) | out Wed Dec 2 |
 | 51 | [Build a Password Generator GUI in Python (Tkinter)](lessons/51-project-gui) | out Thu Dec 3 |
 | 52 | [Build a Snake Game in Python (Beginner Project)](lessons/52-project-snake) | out Fri Dec 4 |
+| 53 | [Build a Port Scanner in Python (Ethical Hacking Basics)](lessons/53-project-scanner) | out Sat Dec 5 |
 <!-- /lessons -->
 
 New lessons show up here as their videos come out.
