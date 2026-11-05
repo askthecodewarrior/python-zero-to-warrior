@@ -46,7 +46,7 @@ If you don't have Python and VS Code yet, lesson 01 shows you where to get them.
 | 20 | [Dictionaries in Python, Explained Visually](lessons/20-dictionaries) | [watch](https://youtu.be/zTur9wm55Wg) |
 | 21 | [enumerate() and zip() in Python](lessons/21-enumerate-zip) | [watch](https://youtu.be/NHXHD0s-eH4) |
 | 22 | [List Comprehensions in Python](lessons/22-comprehensions) | [watch](https://youtu.be/IBbXEjGTkbU) |
-| 23 | [Build a Quiz Game in Python](lessons/23-project-quiz) | out Thu Nov 5 |
+| 23 | [Build a Quiz Game in Python](lessons/23-project-quiz) | [watch](https://youtu.be/X9qw9EqaYeA) |
 | 24 | [Functions in Python (def, parameters, return)](lessons/24-functions) | out Fri Nov 6 |
 | 25 | [Default and Keyword Arguments, *args and **kwargs](lessons/25-arguments) | out Sat Nov 7 |
 | 26 | [Variable Scope in Python (LEGB) Explained](lessons/26-scope) | out Sun Nov 8 |
